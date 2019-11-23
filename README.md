@@ -1,5 +1,12 @@
 # Sheplusplus
 Contribuye a este repositorio creado para el taller "Introducción al uso de GitHub" de la primera edición del evento She++.
+![alt texto] [logo]
+[logo]:  https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs9Ad2TX5FzOCzHGr5SfCyfO7NEFIw1cBmlfOsaY6Gwt1NO4d3
+Lenguajes de Programación | Proyectos
+------------ |------------
+**Python**  | Generar una consulta
+Visual .NET | Genera documento de alumno
+C #  |   Control de Alumnos
 
 # Curso She ++ 2019
 ## Aprendiendo acerca de Git Hub 
@@ -38,6 +45,13 @@ TABLAS
  Content from|Content from 
  Content from|Content from
  
+=======
+
+Porcentaje Aprendido en lenguajes de Programación
+- [X] Aprender Visual.Net (80%)
+- [x] Aprender C# (50%)
+- [] Aprender Python (0%)
+**Berenice Barajas**
 
 
 
@@ -51,6 +65,13 @@ TABLAS
 
 
 
+
+
+
+## Hola
+#### ayudaaaa
+
+[probando ](https://www.instagram.com/liz.mendezh/)
 
 
 
