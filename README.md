@@ -12,6 +12,129 @@ Porcentaje Aprendido en lenguajes de Programación
 - [x] Aprender C# (50%)
 - [] Aprender Python (0%)
 **Berenice Barajas**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Hola
+#### ayudaaaa
+
+[probando ](https://www.instagram.com/liz.mendezh/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Glo´s contribution:
+# Diciembre
+- [ ] Pasar  el final  
+- [x] Terminar caso  clínico
+Fin
 [x] insertar imágenes 
 [x] diferentes tipos de fuentes
 [x] citas 
